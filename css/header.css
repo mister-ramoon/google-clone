@@ -1,0 +1,20 @@
+.header {
+    width: 100%;
+    height: 50px;
+}
+.header-menu {
+    display: flex;
+    justify-content: flex-end;
+}
+.header-menu_item{
+    margin: 10px;
+    list-style: none;
+    font-size: 13px;
+}
+.header-menu_item-link {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+.header-menu_item-link:hover {
+    text-decoration: underline;
+}
