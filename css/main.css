@@ -37,6 +37,7 @@ nav .nav-right-section .menu-icon{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    cursor: pointer;
     width: 25px;
     height: 25px;
 }
