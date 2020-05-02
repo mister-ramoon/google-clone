@@ -29,8 +29,12 @@ header nav .nav-right-section {
 }
 
 nav .nav-right-section a {
-    margin-right: 10px;
-    color:#000;
+    margin-right: 15px;
+    color:rgba(0, 0, 0, 0.87);
+}
+
+nav .nav-right-section a:hover{
+    text-decoration: underline;
 }
 nav .nav-right-section .menu-icon{
     background-image: url('https://static.thenounproject.com/png/756729-200.png');
@@ -38,12 +42,13 @@ nav .nav-right-section .menu-icon{
     background-position: center;
     background-size: contain;
     cursor: pointer;
-    width: 25px;
-    height: 25px;
+    width: 27px;
+    height: 27px;
+    
 }
 nav .nav-right-section img {
     border-radius: 50%;
-    margin-left: 10px;
+    margin-left: 15px;
 
 }
 
