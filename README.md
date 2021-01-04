@@ -1,2 +1,2 @@
-# google-clone of clon of google-clon
-Clon de la página de inicio de Google clon
+# clon google-clone of google
+Clon de la página de inicio de Google clon de google
