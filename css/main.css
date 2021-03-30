@@ -178,3 +178,11 @@ footer ul li a {
 footer ul li a:hover {
     text-decoration: underline;
 }
+
+.pencil {
+    position: relative;
+    display: flex;
+    float: right;
+    top: 190px;
+    right: 10px;
+}
